@@ -1,37 +1,68 @@
-import product1 from '../../images/product-1.jpg'
-import product2 from '../../images/product-2.jpg'
-import product3 from '../../images/product-3.jpg'
-import sweet1 from '../../images/sweet3.jpg'
-import sweet2 from '../../images/sweet-2.jpg'
-import sweet3 from '../../images/sweet-3.jpg'
+import product1 from '../../images/peanut-1.jpeg'
+import product2 from '../../images/peanut-2.jpeg'
+import product3 from '../../images/peanut-3.jpeg'
+import product4 from '../../images/peanut-4.jpeg'
+import product5 from '../../images/peanut-5.jpeg'
+import product6 from '../../images/peanut-6.jpeg'
+import sweet1 from '../../images/peanut-7.jpeg'
+import sweet2 from '../../images/peanut-8.jpeg'
+import sweet3 from '../../images/peanut-9.jpeg'
 
 export const productData = [
   {
     img: product1,
-    alt: 'Pizza',
-    name: 'Supreme Pizza',
+    alt: 'Kacang',
+    name: 'Mede Utuh',
     desc:
       'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$19.99',
-    button: 'Add to Cart',
+    price: 'Rp. 128.000 / kg',
+    button: 'Pesan Sekarang',
+    whatsappMessage: 'Halo%Admin.%21%20Mau%pesan%kacang%mede%utuh%20nih.',
   },
   {
     img: product2,
-    alt: 'Pizza',
-    name: 'Hawaiian Paradise',
+    alt: 'Kacang',
+    name: 'Almond',
     desc:
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$16.99',
-    button: 'Add to Cart',
+    price: 'Rp. 150.000 / kg',
+    button: 'Pesan Sekarang',
   },
   {
     img: product3,
-    alt: 'Pizza',
-    name: 'Veggie Overload',
+    alt: 'Kacang',
+    name: 'Mede Utuh Vacuum',
     desc:
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$14.99',
-    button: 'Add to Cart',
+    price: 'Rp. 130.000 / kg',
+    button: 'Pesan Sekarang',
+  },
+  {
+    img: product4,
+    alt: 'Kacang',
+    name: 'Almond Slice',
+    desc:
+      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+    price: 'Rp. 147.000 / kg',
+    button: 'Pesan Sekarang',
+  },
+  {
+    img: product5,
+    alt: 'Kacang',
+    name: 'Almond Panggang',
+    desc:
+      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+    price: 'Rp. 155.000 / kg',
+    button: 'Pesan Sekarang',
+  },
+  {
+    img: product6,
+    alt: 'Kacang',
+    name: 'Almond Buttermilk',
+    desc:
+      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+    price: 'Rp. 147.000 / kg',
+    button: 'Pesan Sekarang',
   },
 ]
 
@@ -43,7 +74,7 @@ export const productDataTwo = [
     desc:
       'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
     price: '$9.99',
-    button: 'Add to Cart',
+    button: 'Pesan Sekarang',
   },
   {
     img: sweet3,
@@ -52,7 +83,7 @@ export const productDataTwo = [
     desc:
       'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
     price: '$12.99',
-    button: 'Add to Cart',
+    button: 'Pesan Sekarang',
   },
   {
     img: sweet1,
@@ -61,6 +92,6 @@ export const productDataTwo = [
     desc:
       'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
     price: '$9.99',
-    button: 'Add to Cart',
+    button: 'Pesan Sekarang',
   },
 ]
