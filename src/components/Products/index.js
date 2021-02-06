@@ -11,7 +11,6 @@ import {
   ProductPrice,
   ProductButton,
 } from './views'
-import { Link } from 'react-router-dom'
 
 const Products = ({ heading, data }) => {
   return (

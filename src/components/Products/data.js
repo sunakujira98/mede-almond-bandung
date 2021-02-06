@@ -17,7 +17,8 @@ export const productData = [
       'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'Rp. 128.000 / kg',
     button: 'Pesan Sekarang',
-    whatsappMessage: 'Halo%Admin.%21%20Mau%pesan%kacang%mede%utuh%20nih.',
+    whatsappMessage:
+      'Halo%20Admin.%20Mau%20pesan%20kacang%20mede%20utuh%20nih.',
   },
   {
     img: product2,
@@ -27,6 +28,7 @@ export const productData = [
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'Rp. 150.000 / kg',
     button: 'Pesan Sekarang',
+    whatsappMessage: 'Halo%20Admin.%20Mau%20pesan%20kacang%20Almond.',
   },
   {
     img: product3,
@@ -36,6 +38,8 @@ export const productData = [
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'Rp. 130.000 / kg',
     button: 'Pesan Sekarang',
+    whatsappMessage:
+      'Halo%20Admin.%20Mau%20pesan%20kacang%20Mede%20utuh%20vacuum%20nih.',
   },
   {
     img: product4,
@@ -45,6 +49,8 @@ export const productData = [
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'Rp. 147.000 / kg',
     button: 'Pesan Sekarang',
+    whatsappMessage:
+      'Halo%20Admin.%20Mau%20pesan%20kacang%20Almond%slice%20nih.',
   },
   {
     img: product5,
@@ -54,6 +60,8 @@ export const productData = [
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'Rp. 155.000 / kg',
     button: 'Pesan Sekarang',
+    whatsappMessage:
+      'Halo%20Admin.%20Mau%20pesan%20kacang%Almond%panggang%20nih.',
   },
   {
     img: product6,
@@ -63,6 +71,8 @@ export const productData = [
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'Rp. 147.000 / kg',
     button: 'Pesan Sekarang',
+    whatsappMessage:
+      'Halo%20Admin.%20Mau%20pesan%20kacang%20Almond%20Buttermilk%20nih.',
   },
 ]
 

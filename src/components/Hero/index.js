@@ -22,7 +22,7 @@ const Hero = () => {
       <HeroContent>
         <HeroItems>
           <HeroH1>Mede Almond Terbaik</HeroH1>
-          <HeroP>Menyajikan berbagai macam kacang mede</HeroP>
+          <HeroP>Menyajikan berbagai macam kacang mede dan almond</HeroP>
           <HeroBtn>Pesan Sekarang</HeroBtn>
         </HeroItems>
       </HeroContent>

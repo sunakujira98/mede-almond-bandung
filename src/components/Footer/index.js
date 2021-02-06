@@ -16,10 +16,10 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/'>Pizza</SocialLogo>
+            <SocialLogo to='/'>Mede Almond Bandung</SocialLogo>
             <SocialIcons>
               <SocialIconLink
-                href='/'
+                href='https://m.facebook.com/Mede-Bandung-2320407941382891'
                 target='_blank'
                 aria-label='Facebook'
                 rel='noopener noreferrer'
@@ -27,7 +27,7 @@ const Footer = () => {
                 <FaFacebook />
               </SocialIconLink>
               <SocialIconLink
-                href='/'
+                href='https://www.instagram.com/medebandung/'
                 target='_blank'
                 aria-label='Instagram'
                 rel='noopener noreferrer'
